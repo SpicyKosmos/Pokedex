@@ -1,4 +1,3 @@
-
 import requests
 
 
@@ -52,15 +51,4 @@ def pokemonbul():
 
 pokemonbul()
 
-
-
-
-
-
-
-#id
-#name
-#types
-#forms
-#abilities
 
